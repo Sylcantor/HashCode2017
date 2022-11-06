@@ -5,7 +5,7 @@ Algorithme glouton et de recherche local pour le hashcode 2017.
 # Git clone
 
 - http : `git clone https://github.com/Sylcantor/HashCode2017.git`
-- ssh : ``git clone git@github.com:Sylcantor/HashCode2017.git`
+- ssh : `git clone git@github.com:Sylcantor/HashCode2017.git`
 
 # Execution
 
