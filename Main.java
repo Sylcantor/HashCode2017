@@ -20,9 +20,8 @@ class Main {
         while (System.currentTimeMillis() - start < 10000) { // 10 seconds of execution of local research
             parser.local_research();
         }
-
-        /*
         parser.printResult();
+        /*
         System.out.println(parser.score);
         //print scoreByCacheServerByVideo
         for (int i = 0; i < parser.scoreByCacheServerByVideo.length; i++) {
